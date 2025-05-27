@@ -61,8 +61,11 @@
     margin: 5px;
 }
 .buttons:hover {
-    transform: scale(1.05) ;
-    
+    transform: scale(1.03) ;
+}
+.buttons:active{
+    transform: scale(1);
+
 }
 
 .buttons.operator {
